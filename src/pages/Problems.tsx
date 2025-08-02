@@ -142,6 +142,15 @@ export const Problems: React.FC = () => {
               <option value="Dynamic Programming">Dynamic Programming</option>
               <option value="Tree">Tree</option>
               <option value="Graph">Graph</option>
+              <option value="Bit Manipulation">Bit Manipulation</option>
+              <option value="Math">Math</option>
+              <option value="Recursion">Recursion</option>
+              <option value="Sorting">Sorting</option>
+              <option value="Searching">Searching</option>
+               <option value="Math">Two Pointers</option>
+              <option value="Recursion">Number Theory</option>
+              <option value="Sorting">Linked List</option>
+              <option value="Searching">Game Theory</option>
             </select>
 
             {/* Sort */}
